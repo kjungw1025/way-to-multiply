@@ -1,4 +1,6 @@
 import math
+
+
 def mul():
     number1=int(input("첫번째 숫자를 입력하시오: "))
     number2=int(input("두번째 숫자를 입력하시오: "))
